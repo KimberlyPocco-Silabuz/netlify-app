@@ -1,2 +1,2 @@
-# React App with Netlify
+React App with Netlify
 
